@@ -1,3 +1,6 @@
+## Disclaimer
+This README file was built using AI.
+
 # Shero Internship Website
 A modern, responsive website for an Internship task built with pure HTML5, CSS3, and JavaScript. This project demonstrates advanced layout techniques including CSS Grid, Flexbox, and responsive carousel functionality.
 
